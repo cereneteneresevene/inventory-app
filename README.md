@@ -15,6 +15,16 @@ Gerçek dünya verisiyle çalışan fullstack stok yönetim uygulaması. Kaggle'
 - 🔍 **Arama & Filtreleme** — Ürün adı ve kategori bazlı filtreleme
 - ⚠️ **Düşük Stok Uyarısı** — Kritik seviyedeki ürünler otomatik işaretlenir
 - 📄 **Sayfalama** — 10.000 ürün sayfalı olarak listelenir
+- ## 📸 Ekran Görüntüleri
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Ürün Listesi
+![Products](screenshots/products.png)
+
+### Düzenleme Modalı
+![Edit Modal](screenshots/edit-modal.png)
 
 ## 🛠️ Teknolojiler
 
